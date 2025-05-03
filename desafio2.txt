@@ -1,0 +1,11 @@
+articipei de um desafio prático no Copilot Studio, onde tive a oportunidade de explorar a criação e personalização de copilots com base em fluxos de tópicos e recursos de inteligência artificial generativa.
+
+O desafio começou com a apresentação do problema, seguida da criação de um Copilot em branco, etapa essencial para estruturar um assistente do zero, definindo desde os fluxos iniciais até os detalhes de comportamento em cada interação.
+
+A seguir, aprendi a customizar um tópico, adaptando os fluxos de conversa de acordo com as necessidades específicas do usuário e contexto de uso. Isso incluiu a definição de intenções, respostas condicionais e variações de linguagem.
+
+Também explorei como personalizar mensagens de erro de tópicos, um recurso importante para oferecer respostas claras quando o input do usuário não corresponde ao esperado, melhorando a experiência geral da interação.
+
+A parte mais rica do desafio foi aprender a trabalhar com GenAI (Inteligência Artificial Generativa) dentro do Copilot Studio. Com esse recurso, é possível gerar respostas mais naturais, dinâmicas e contextualizadas, indo além das respostas estáticas.
+
+Durante o desafio, aprendi a aumentar ou diminuir a qualidade da resposta utilizando os controles disponíveis no estúdio. 
