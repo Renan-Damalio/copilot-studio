@@ -1,0 +1,23 @@
+Desafio: Laboratório de Fala e Linguagem Natural com Azure
+Este repositório reúne tudo o que aprendi durante um laboratório prático usando duas ferramentas da Microsoft: Azure Speech Studio e Language Studio. 
+  O foco foi treinar o uso da inteligência artificial para interpretar fala e texto, tanto em linguagem formal quanto coloquial.
+
+
+Neste laboratório, foi exploradocomo a inteligência artificial pode entender e responder a interações humanas.Testes com:
+
+Fala para texto (speech-to-text):  voz e convertida em texto.
+
+Texto para fala (text-to-speech): respostas que são lidas por uma voz artificial.
+
+Análise de texto: o Language Studio usado para descobrir sentimentos, identificar intenções e entender o significado de textos.
+
+Linguagem informal: teste de expressões do dia a dia, gírias e formas de falar mais soltas para ver como os serviços da Azure lidam com esse tipo de conteúdo.
+
+O que aprendi
+Como transformar áudio em texto com precisão.
+
+Como criar vozes artificiais que soam naturais.
+
+Como analisar sentimentos, detectar assuntos e entender a intenção de quem escreve ou fala.
+
+Que a IA da Microsoft já consegue entender muitas formas de linguagem coloquial.
