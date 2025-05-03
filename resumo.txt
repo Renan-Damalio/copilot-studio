@@ -1,0 +1,8 @@
+
+
+No desafio proposto, fui solicitado a criar o "primeiro copilot em branco" utilizando o **Copilot Studio**. 
+A criação do "copilot em branco" no Copilot Studio envolveu configurar o ambiente e entender os componentes principais da plataforma.
+Durante a demonstração, aprendi como o sistema gera sugestões de código em tempo real com base nas entradas fornecidas.
+O desafio foi uma forma de introduzir a experiência de desenvolvimento com assistentes inteligentes, focando na criação do copiloto simples, mas que serve de base para projetos mais complexos.
+Ao configurar esse primeiro copilot em branco, consegui ver como o Copilot Studio pode ser usado para automatizar tarefas repetitivas e melhorar a produtividade no processo de desenvolvimento.
+
